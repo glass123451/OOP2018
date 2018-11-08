@@ -1,2 +1,2 @@
 # OOP2018
-LabOOP2018
+My OOP Project
